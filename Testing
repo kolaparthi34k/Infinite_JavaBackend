@@ -4,3 +4,4 @@ React Testing Library: https://testing-library.com/docs/react-testing-library/in
 Jest: https://jestjs.io/docs/en/getting-started
 Enzyme: https://enzymejs.github.io/enzyme/
 Mocha: https://mochajs.org/
+Snapshot Testing with Jest: https://jestjs.io/docs/en/snapshot-testing
